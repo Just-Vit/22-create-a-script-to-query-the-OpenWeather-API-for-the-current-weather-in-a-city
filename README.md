@@ -38,3 +38,8 @@ you should have something look like:
     ┌──(my_env_weather)─(user㉿acer)-[~]
     └─$ python w_1_api_good.py            
     scattered clouds
+
+
+Having completed that successfully, you can now delete the last two lines from the script.
+Or just hash these two lines.
+As we will build our application further and utilize this block.
