@@ -20,4 +20,16 @@ If there is an issue with the request, the status code is printed out to the con
 
 To test the script, call the get_weather() function with a city of your choice (for example, London) and print the result. Add the highlighted code following your function:
 
+    weather1 = get_weather("London")
+    print(weather1)
+
+*****
+
+To run your just created API request file, first activate your environment as shown in the previous repo:
+
+    source my_env_weather/bin/activate
+
+then run it with
+
+    python w_1_api_good.py
 
