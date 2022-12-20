@@ -33,3 +33,8 @@ then run it with
 
     python w_1_api_good.py
 
+you should have something look like:
+
+    ┌──(my_env_weather)─(user㉿acer)-[~]
+    └─$ python w_1_api_good.py            
+    scattered clouds
