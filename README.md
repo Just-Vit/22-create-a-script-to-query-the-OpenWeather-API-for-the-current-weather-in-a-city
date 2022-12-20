@@ -4,11 +4,11 @@ Step 2 — Creating the City Weather Program
 
 First, create and open a Python file called weather_bot.py with your preferred editor:
 
-    nano w_1_bot_good.py
+    nano w_1_api_good.py
 
 Next, you’ll create a function to get the current weather in a city from the OpenWeather API. 
 
-Let's review the code at your w_1_bot_good.py file:
+Let's review the code at your w_1_api_good.py file:
 
 First, you import the requests library, so you are able to work with and make HTTP requests. Make sure to replace your_api_key with your own API key. The next line begins the definition of the function get_weather() to retrieve the weather of the specified city.
 
